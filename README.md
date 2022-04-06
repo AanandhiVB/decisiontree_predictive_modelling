@@ -199,7 +199,6 @@ An health insurance provider (US based) offers health insurance to customers. Th
 
 **Model Building**
 
- - Used the Decision Tree Regressor to recommend the appropriate PCP to
-   members - 30% of PCP Dataset was used for testing and 70% of PCP Dataset was used for training
+ - Used the Decision Tree Regressor to recommend the appropriate PCP to members - 30% of PCP Dataset was used for testing and 70% of PCP Dataset was used for training
 
  - Achieved a model accuracy of 96%
